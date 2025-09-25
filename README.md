@@ -18,7 +18,7 @@ Be careful, the mod simulates a full activation, so you can go bankrupt if you l
 - Quick settings menu: **press `J`** to open/close.
 
 ## Controls
-- **J** — Toggle the mod’s settings menu (open/close).
+- **J**/**D-Pad down** — Toggle the mod’s settings menu (open/close).
 
 ## Installation
 1. Make sure UE4SS (or the current mod loader you use for DRG) is installed and enabled.
