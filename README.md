@@ -17,10 +17,10 @@ Be careful, the mod simulates a full activation, so you can go bankrupt if you l
 - Auto‑starts the Space Rig jukebox from **any distance**.
 - Automatically restarts songs when they end.
 - Simulates a **full, paid activation** (respecting in‑game economy).
-- Quick settings menu: **press `J`** to open/close.
+- Quick settings menu: **press `J`/`D-Pad down`** to open/close.
 
 ## Controls
-- **J**/**D-Pad down** — Toggle the mod’s settings menu (open/close).
+- **J/D-Pad down** — Toggle the mod’s settings menu (open/close).
 
 ## Installation
 1. Make sure UE4SS (or the current mod loader you use for DRG) is installed and enabled.
@@ -31,7 +31,7 @@ Be careful, the mod simulates a full activation, so you can go bankrupt if you l
 > **Multiplayer note:** The mod simulates a real jukebox activation. In lobbies with others, your credits can be spent when the jukebox (re)starts if the server allows it.
 
 ## Configuration
-- Open the in‑game menu with **`J`** and adjust options on the fly.
+- Open the in‑game menu with **`J`/`D-Pad down`** and adjust options on the fly.
 
 ## Compatibility
 - Designed for the Space Rig jukebox interaction. Other mods that replace jukebox behavior may conflict.
@@ -44,6 +44,3 @@ Be careful, the mod simulates a full activation, so you can go bankrupt if you l
 ## Building from Source (optional)
 - Open the project in your installed Unreal Engine toolchain and compile as you would a standard UE4/UE5 plugin/mod.
 - If you regenerate project files, ensure your IDE solution picks up the same engine/toolchain versions used by your UE4SS/DRG setup.
-
-## Changelog
-- **v1.0.0** — Initial public release.
