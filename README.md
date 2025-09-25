@@ -1,3 +1,5 @@
+<img width="1544" height="1080" alt="JukeboxLoop" src="https://github.com/user-attachments/assets/2aaddd5b-80b5-44a0-ac3d-e8116c2d31d8" />
+
 # JukeboxLoop
 
 A lightweight quality‑of‑life mod for **Deep Rock Galactic**.
